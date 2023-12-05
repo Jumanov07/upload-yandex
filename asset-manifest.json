@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/upload-yandex/static/css/main.82fa48ea.css",
-    "main.js": "/upload-yandex/static/js/main.ba5bc8f5.js",
-    "index.html": "/upload-yandex/index.html",
-    "main.82fa48ea.css.map": "/upload-yandex/static/css/main.82fa48ea.css.map",
-    "main.ba5bc8f5.js.map": "/upload-yandex/static/js/main.ba5bc8f5.js.map"
+    "main.css": "/yandex-disk/static/css/main.efec9326.css",
+    "main.js": "/yandex-disk/static/js/main.1560c4ad.js",
+    "index.html": "/yandex-disk/index.html",
+    "main.efec9326.css.map": "/yandex-disk/static/css/main.efec9326.css.map",
+    "main.1560c4ad.js.map": "/yandex-disk/static/js/main.1560c4ad.js.map"
   },
   "entrypoints": [
-    "static/css/main.82fa48ea.css",
-    "static/js/main.ba5bc8f5.js"
+    "static/css/main.efec9326.css",
+    "static/js/main.1560c4ad.js"
   ]
 }
